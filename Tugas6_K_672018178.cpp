@@ -1681,7 +1681,7 @@ void tampil(void)
 
 
 
-    koordinat();
+    //koordinat();
     ///alas
     alas();
 
